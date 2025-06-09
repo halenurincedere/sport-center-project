@@ -8,7 +8,7 @@ Developed as part of the Patika+ graduation project requirements, with an emphas
 ## 🔗 Live Demo
 
 You can view the deployed version here:  
-[Live Site on Netlify](https://app.netlify.com/projects/sport-center-patika/overview)
+[Live Site on Netlify](https://sport-center-patika.netlify.app)
 
 ## 🎥 Project Previews
 
@@ -16,7 +16,7 @@ You can view the deployed version here:
 ![Desktop Demo](./gifs/sport-center-desktop.gif)
 
 ### 📱 Mobile View  
-![Mobile Demo](./gifs/sport-center-mobil.gif)
+![Mobile Demo](./gifs/Sport-center-mobil.gif)
 
 ---
 
