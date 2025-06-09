@@ -16,12 +16,7 @@ You can view the deployed version here:
 ![Desktop Demo](./gifs/sport-center-desktop.gif)
 
 ### 📱 Mobile View  
-<<<<<<< HEAD
 ![Mobile Demo](./gifs/sport-center-mobile.gif)
-=======
-![Mobile Demo](./gifs/Sport-center-mobil.gif)
->>>>>>> 05b85510cbbc4f229f05ab00641ddad2111df3b1
-
 ---
 
 ##  Features
